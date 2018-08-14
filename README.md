@@ -15,3 +15,7 @@ This is a microservice based on [Spring Boot](https://spring.io/projects/spring-
 *Must respect the design patterns(Strategy, Facade, Service, Repository)
 * Must use Java8's new resources such as Stream API, Optionals and Lambdas
 * Use the following technologies: IntelliJ Idea, Maven, Spring Boot, Git, RESTFul services, Spring DATA, JPA Entities, Lombok Project, JSON, Apache Lang Utils and Google Guava
+
+**The class diagram was the following:**
+
+![class_diagram](https://user-images.githubusercontent.com/34111347/44122650-c1834fd8-a01c-11e8-8636-97a8f8e7ceb0.png)
