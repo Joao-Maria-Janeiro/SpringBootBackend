@@ -4,7 +4,7 @@ Project developed during my internship at NSC SAP Portugal under the [mentor](ht
 
 This is a microservice based on [Spring Boot](https://spring.io/projects/spring-boot) to provide RESTFul web services for E-Commerce platforms following the principles of the Scrum framework.
 
-**The principal adopted requirements in this challenge were: **
+**The principal adopted requirements in this challenge were:**
 
 * Use the Bitbucket version controll
 * Use the Trello application to create an Agile Task Board
