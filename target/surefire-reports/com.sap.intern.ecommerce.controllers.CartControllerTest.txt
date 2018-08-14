@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.sap.intern.ecommerce.controllers.CartControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.548 s <<< FAILURE! - in com.sap.intern.ecommerce.controllers.CartControllerTest
+getCart(com.sap.intern.ecommerce.controllers.CartControllerTest)  Time elapsed: 0.285 s  <<< ERROR!
+org.springframework.web.client.HttpServerErrorException: 500 null
+	at com.sap.intern.ecommerce.controllers.CartControllerTest.getCart(CartControllerTest.java:97)
+
+removeProduct(com.sap.intern.ecommerce.controllers.CartControllerTest)  Time elapsed: 0.066 s  <<< ERROR!
+org.springframework.web.client.HttpServerErrorException: 500 null
+	at com.sap.intern.ecommerce.controllers.CartControllerTest.removeProduct(CartControllerTest.java:85)
+
+addProduct_no_cart_created(com.sap.intern.ecommerce.controllers.CartControllerTest)  Time elapsed: 0.04 s  <<< ERROR!
+org.springframework.web.client.HttpServerErrorException: 500 null
+	at com.sap.intern.ecommerce.controllers.CartControllerTest.addProduct_no_cart_created(CartControllerTest.java:72)
+
+addProduct(com.sap.intern.ecommerce.controllers.CartControllerTest)  Time elapsed: 0.092 s  <<< ERROR!
+org.springframework.web.client.HttpServerErrorException: 500 null
+	at com.sap.intern.ecommerce.controllers.CartControllerTest.addProduct(CartControllerTest.java:62)
+

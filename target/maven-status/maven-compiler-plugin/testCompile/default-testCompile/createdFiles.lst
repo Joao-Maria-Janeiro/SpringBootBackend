@@ -1,0 +1,5 @@
+com/sap/intern/ecommerce/controllers/CartControllerTest.class
+com/sap/intern/ecommerce/controllers/CustomerControllerTest.class
+com/sap/intern/ecommerce/controllers/ProductControllerTest.class
+com/sap/intern/ecommerce/controllers/LogInControllerTest.class
+com/sap/intern/ecommerce/SpringContext.class
